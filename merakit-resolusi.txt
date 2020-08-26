@@ -1,0 +1,17 @@
+MERAKIT RESOLUSI
+- CPU 
+  *AMD - Ryzen Threadripper 3990x
+- Motherboard 
+  *Gigabyte - TRX40 Aourus Xtreme
+- Memory
+  *Corsair - CMT64GX4M2C3600C18 (8X32GB)
+- Storage
+  *Samsung - SSD 970 Evo Plus NVMe M.2 2TB (X3)
+- Colling
+  *Gigabyte - Aorus Liquid Cooler 360
+- Graphic Card
+  *Gigabyte - Aorus GeForce RTX 2080 Ti Xtreme 11G (X2)
+- Power Supply
+  *Asus - ROG-THOR-1200P
+- Komputer Cases
+  *SilverStone - SST-TJ11B-W
