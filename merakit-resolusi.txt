@@ -15,3 +15,6 @@ MERAKIT RESOLUSI
   *Asus - ROG-THOR-1200P
 - Komputer Cases
   *SilverStone - SST-TJ11B-W
+- Peripherals
+ * RGB Strip
+ * RGB & Fan Controller
