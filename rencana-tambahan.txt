@@ -1,7 +1,7 @@
 RENCANA PENGGANTIAN FAN PADA KOMPUTER CASES
 
 - Fan komputer RGB bagian depan
-  *Corsair - LL120 RGB Three Pack (X1)
+  *Corsair - LL120 RGB Three Pack (X2)
 - Fan komputer RGB bagian bawah
   *Corsair - LL120 RGB Three Pack (X6)  
 - Fan RGB radiator 
